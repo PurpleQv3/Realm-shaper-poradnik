@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<title>Realm Shaper – Poradnik</title>
+<style>
+body {
+  margin: 0;
+  background: #0b0b0b;
+  color: white;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 30px;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 50px;
+  border-bottom: 1px solid #444;
+  padding-bottom: 5px;
+}
+
+.section {
+  margin-top: 30px;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+.hidden {
+  opacity: 0.7;
+  font-style: italic;
+}
+
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<h1>Realm Shaper – Poradnik</h1>
+
+<!-- RASY -->
+<h2>Rasy</h2>
+<div class="section">
+<ul>
+<li>Angels → Archangels → Gods<br><span class="hidden">Hidden evolution: ???</span></li>
+<li>Lesser Demons → Demons → Satans<br><span class="hidden">Hidden evolution: ???</span></li>
+<li>Humans → Perfect Humans → Demigods<br><span class="hidden">Hidden evolution: ???</span></li>
+<li>Kemonomimi → Beasts<br><span class="hidden">Hidden evolution: ???</span></li>
+<li>Dwarves → Half-techno dwarves → Perfect techno AI<br><span class="hidden">Hidden evolution: ???</span></li>
+<li>Wyverns → Dragons → Ancient Dragons<br><span class="hidden">Hidden evolution: ???</span></li>
+<li>Half-Elves → Elves → Dark Elves / High Elves<br><span class="hidden">Hidden evolution: ???</span></li>
+</ul>
+</div>
+
+<!-- RZADKOŚCI -->
+<h2>Rzadkości Kart</h2>
+<div class="section">
+<ul>
+<li>Basic (B) → Rare (R) → Epic (E)</li>
+<li>Hidden Evolution (HE) – rzadsze niż Epic<br>
+Wygląd: numer wyższy niż liczba kart w secie (np. 75/74)</li>
+<li>Stained Red (SR) / Green (SG) / Blue (SB)<br>
+Rzadsze niż wersja normalna</li>
+<li>Full Art (FA)<br>
+Cała karta jest ilustracją</li>
+<li>Stained Golden Art (SGA)<br>
+Złote plamy na karcie</li>
+<li>Stained Rainbow Art (SRA)<br>
+Tęczowe plamy</li>
+<li>Reversed Full Art (RFA)<br>
+Kolory tylko biały / czarny</li>
+<li>Original Drawn (OD)<br>
+Ręcznie rysowana, unikalna</li>
+</ul>
+</div>
+
+<!-- TYPY KART -->
+<h2>Typy Kart</h2>
+<div class="section">
+<ul>
+<li><b>Entity Card</b> – Realmborn (grywalna postać)</li>
+<li><b>Item Card</b> – wzmacnia Realmborna (broń)</li>
+<li><b>Artifact Card</b> – zużywa MP, jednorazowa</li>
+<li><b>Relic Card</b> – działa globalnie na Entity</li>
+<li><b>Shapecrystal Cards</b><br>
+Typy: light, void, normal, rage, power, flame, nature</li>
+</ul>
+</div>
+
+<!-- WYGLĄD KART -->
+<h2>Wygląd kart Entity</h2>
+<div class="section">
+<ul>
+<li>Evolution Level (EL) – prawy dolny róg</li>
+<li>Numer seta – lewy dolny róg (np. 23/103)</li>
+<li>Ilustracja Realmborna</li>
+<li>Nazwa – góra karty</li>
+<li>Rasa</li>
+<li>HP, ATK, DEF</li>
+<li>MP – prawy górny róg</li>
+<li>Shapecrystals i efekty</li>
+<li>Typ karty – lewy górny róg</li>
+<li>Ikona specjalizacji broni</li>
+</ul>
+</div>
+
+<!-- ZASADY UPROSZCZONE -->
+<h2>Zasady gry (uproszczone)</h2>
+<div class="section">
+<ul>
+<li>Cel: pokonać wszystkie karty przeciwnika</li>
+<li>Talia: 14 Entity + 3 Shapecrystals</li>
+<li>Obrażenia = ATK – DEF</li>
+<li>Po pokonaniu karta zostaje na stole</li>
+</ul>
+</div>
+
+<!-- ZASADY ROZWINIĘTE -->
+<h2>Zasady gry (rozwinięte)</h2>
+<div class="section">
+<ul>
+<li>HP Shaped One = 100</li>
+<li>Talia: 40–60 kart</li>
+<li>4 fazy rundy: Dobieranie → Shapecrystals → Akcje → Rozliczenie</li>
+<li>Maks. 5 Realmbornów na stole</li>
+<li>Artifacty zużywają MP</li>
+</ul>
+</div>
+
+</div>
+
+</body>
+</html>
